@@ -1,21 +1,5 @@
 "No lines"
-remote: 
-To https://github.com/anillama/testgit.git
- * [new branch]      newbranch -> newbranch
-Branch 'newbranch' set up to track remote branch 'newbranch' from 'origin'.
-MacBook-Pro:testGitBranch anillama$ git branch
-  master
-* newbranch
-MacBook-Pro:testGitBranch anillama$ git status
-On branch newbranch
-Your branch is up to date with 'origin/newbranch'.
-
-"adding hello"
-Aborting
-MacBook-Pro:testGitBranch anillama$ git status
-On branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   index.txt
+"add"
+"sub"
+mul
 
