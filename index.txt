@@ -9,3 +9,13 @@ MacBook-Pro:testGitBranch anillama$ git branch
 MacBook-Pro:testGitBranch anillama$ git status
 On branch newbranch
 Your branch is up to date with 'origin/newbranch'.
+
+"adding hello"
+Aborting
+MacBook-Pro:testGitBranch anillama$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   index.txt
+
